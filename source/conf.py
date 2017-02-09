@@ -102,7 +102,8 @@ html_short_title = 'garethnelson.com'
 html_theme_options = {'bootswatch_theme':'darkly',
                       'navbar_pagenav':False,
                       'navbar_links':[("Git via GOGS","https://www.garethnelson.com/git",True),
-                                      ("Git via github","https://www.github.com/GarethNelson",True)],
+                                      ("Git via github","https://www.github.com/GarethNelson",True),
+                                      ("Music","music")],
                       }
 
 # Add any paths that contain custom static files (such as style sheets) here,
